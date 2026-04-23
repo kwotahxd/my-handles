@@ -32,6 +32,7 @@
 * fka kwotah
 * aka kwotah
 * квотахбас
+* 籴粀籸籽籪籱 (ROT8000 от kwotah)
 
 
 ### kotah и производные
